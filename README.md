@@ -8,9 +8,9 @@ Este repositório contém o estudo do curso "JavaScript Masterclass" do Rodrigo 
 - [x] Abertura
 - [x] Instruções
 - [x] História da Linguagem
-- [ ] Evolução das Versões
-- [ ] Quiz 1
-- [ ] Variáveis
+- [x] Evolução das Versões
+- [x] Quiz 1
+- [x] Variáveis
 
 ### 2. Tipos de Dados
 - [ ] Tipos de Dados
